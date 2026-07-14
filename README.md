@@ -1,4 +1,3 @@
-# Axlero-Solutions
 # SupplyPrescript: AI-Powered Supply Chain Decision Support System
 
 ## Overview

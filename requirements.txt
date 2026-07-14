@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+pulp
+fastapi
+uvicorn
+sqlalchemy
